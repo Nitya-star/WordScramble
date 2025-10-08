@@ -1,0 +1,10 @@
+
+.error {
+  display: inline-block;
+  color: red;
+  padding: 0.5em;
+}
+
+.hidden {
+  display: none;
+}

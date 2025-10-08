@@ -1,0 +1,18 @@
+
+.error {
+  display: inline-block;
+  color: red;
+  padding: 0.5em;
+}
+
+.hidden {
+  display: none;
+}
+
+table {
+  border: 0.2em black solid;
+}
+
+td, th {
+  text-align: center;
+}
